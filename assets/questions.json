@@ -1,0 +1,12 @@
+[
+  { "id": 1, "text": "Qual a capital da França?", "options": ["Paris", "Londres", "Berlim", "Madrid"] },
+  { "id": 2, "text": "Qual é 2 + 2?", "options": ["3", "4", "5", "6"] },
+  { "id": 3, "text": "Qual a cor do céu?", "options": ["Azul", "Verde", "Amarelo", "Vermelho"] },
+  { "id": 4, "text": "Quem pintou a Mona Lisa?", "options": ["Leonardo da Vinci", "Picasso", "Van Gogh", "Michelangelo"] },
+  { "id": 5, "text": "Quantos planetas há no sistema solar?", "options": ["7", "8", "9", "10"] },
+  { "id": 6, "text": "Qual é o maior oceano?", "options": ["Atlântico", "Pacífico", "Índico", "Ártico"] },
+  { "id": 7, "text": "Quem escreveu 'Dom Quixote'?", "options": ["Miguel de Cervantes", "Shakespeare", "Dante", "Tolstói"] },
+  { "id": 8, "text": "Qual é a fórmula da água?", "options": ["H2O", "CO2", "O2", "H2"] },
+  { "id": 9, "text": "Qual o maior país do mundo?", "options": ["Rússia", "Canadá", "China", "EUA"] },
+  { "id": 10, "text": "Qual o idioma mais falado no mundo?", "options": ["Mandarim", "Inglês", "Espanhol", "Hindi"] }
+]
